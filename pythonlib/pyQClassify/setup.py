@@ -8,8 +8,8 @@ setup(
     name='pyQClassify',
     version='1.5.0',
     description='Python wrapper for QClassify library',
-    author='Andrey Babak',
-    author_email='a.babak@corp.mail.ru',
+    author='Andrey Babak, Alexander Bekbulatov',
+    author_email='a.babak@corp.mail.ru, a.bekbulatov@corp.mail.ru',
     packages=[],
 
     ext_modules=[
